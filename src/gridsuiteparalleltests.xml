@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" thread-count="3">
+  <test name="Node1">
+    <classes>
+      <class name="selenium_grid_package.Node1"/>
+    </classes>
+  </test>
+  <test name="Node2">
+    <classes>
+      <class name="selenium_grid_package.Node2"/>
+    </classes>
+  </test>
+  <test name="Node3">
+    <classes>
+      <class name="selenium_grid_package.Node3"/>
+    </classes>
+  </test>
+</suite>

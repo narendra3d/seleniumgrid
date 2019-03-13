@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45655" started-at="2019-03-13T06:41:17Z" finished-at="2019-03-13T06:42:03Z">
+    <groups>
+    </groups>
+    <test name="Method1-Method2-Method3" duration-ms="45655" started-at="2019-03-13T06:41:17Z" finished-at="2019-03-13T06:42:03Z">
+      <class name="selenium_grid_package.Node1Node2Node3">
+        <test-method status="PASS" signature="node1()[pri:0, instance:selenium_grid_package.Node1Node2Node3@482f8f11]" name="node1" duration-ms="23839" started-at="2019-03-13T06:41:17Z" finished-at="2019-03-13T06:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- node1 -->
+        <test-method status="PASS" signature="node2()[pri:0, instance:selenium_grid_package.Node1Node2Node3@482f8f11]" name="node2" duration-ms="17204" started-at="2019-03-13T06:41:17Z" finished-at="2019-03-13T06:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- node2 -->
+        <test-method status="PASS" signature="node3()[pri:0, instance:selenium_grid_package.Node1Node2Node3@482f8f11]" name="node3" duration-ms="45620" started-at="2019-03-13T06:41:17Z" finished-at="2019-03-13T06:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- node3 -->
+      </class> <!-- selenium_grid_package.Node1Node2Node3 -->
+    </test> <!-- Method1-Method2-Method3 -->
+  </suite> <!-- Suite -->
+</testng-results>
